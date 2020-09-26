@@ -1,8 +1,4 @@
-com\example\BackendApp1\BookRepository.class
-com\example\BackendApp1\BackendApp1Application.class
-com\example\BackendApp1\BookController.class
-com\example\BackendApp1\User.class
 com\example\BackendApp1\DB.class
-com\example\BackendApp1\BookValidator.class
+com\example\BackendApp1\BackendApp1Application.class
 com\example\BackendApp1\Controller.class
-com\example\BackendApp1\Book.class
+com\example\BackendApp1\User.class
